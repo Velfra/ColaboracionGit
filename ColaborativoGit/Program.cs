@@ -11,6 +11,8 @@ namespace ColaborativoGit
         static void Main(string[] args)
         {
             Console.WriteLine("holii");
+            Console.WriteLine("Que tal?");
+            Console.ReadLine();
         }
     }
 }
