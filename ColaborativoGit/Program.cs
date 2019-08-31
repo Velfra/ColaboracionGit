@@ -16,6 +16,9 @@ namespace ColaborativoGit
             Console.WriteLine("Hola soy Osvaldo y no me banho :)");
 
             Console.WriteLine("Que tal dije?");
+            Console.WriteLine("todo bien ");
+
+
 
         }
     }
