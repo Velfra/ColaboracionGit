@@ -19,6 +19,7 @@ namespace ColaborativoGit
             Console.WriteLine("todo bien ");
             Console.WriteLine("Deja de dormir en el laburo, nos van a pillar y patitas para la calle :(");
             Console.WriteLine("Que tal?");
+            Console.WriteLine("Que tal dije?");
 
 
         }
