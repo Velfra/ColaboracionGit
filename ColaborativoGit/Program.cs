@@ -13,6 +13,7 @@ namespace ColaborativoGit
             Console.WriteLine("holii");
             Console.WriteLine("Que tal?");
             Console.ReadLine();
+            Console.WriteLine("Chaaaaa de la gran 7 esta este tema de git hub ");
         }
     }
 }
